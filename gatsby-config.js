@@ -7,6 +7,20 @@ module.exports = {
       'Isolde Gorjup personal website',
   },
   plugins: [
+    {
+      resolve: "gatsby-transformer-remark",
+      options: {
+        plugins: [
+        {
+          resolve: "gatsby-remark-soundcloud",
+          options: {
+            width: 800,
+            height: 400, 
+          }
+        }
+        ]
+      }
+    },
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     {
