@@ -28,10 +28,10 @@ main:
     image: /img/c6-aynlpr1q3l78ilyfinq.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/img_0394.jpeg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/img_0204.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
