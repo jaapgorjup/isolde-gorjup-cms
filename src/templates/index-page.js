@@ -175,6 +175,7 @@ export const pageQuery = graphql`
         }
         description
         intro {
+          blurbs {
             text
           }
           heading
