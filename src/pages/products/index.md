@@ -21,7 +21,7 @@ main:
     alt: HEY ITS MEEEEE
     image: /img/fullsizeoutput_1c86.jpeg
   image3:
-    alt: Flying over Jakarta at night
+    alt: Flying over Singapore at night
     image: /img/img_0060.jpeg
 testimonials:
   - author: Smart person name
