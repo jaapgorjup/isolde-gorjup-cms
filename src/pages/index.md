@@ -43,7 +43,7 @@ main:
   description: |
     Musci is party!
   image1:
-    alt: Party time
+    alt: Party time ;)
     image: /img/ix0-kfvwqf-wrs5xhp5xqa.jpg
   image2:
     alt: me in indonesia with neon sunglasses
