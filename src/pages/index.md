@@ -13,8 +13,8 @@ intro:
   blurbs:
     - image: /img/fullsizeoutput_1c86.jpeg
       text: >-
-        Pizza is for people that like to eat bread with a lot of topping and
-        ofcourse cheese. Isolde should update this text.
+        so this is my homepage you better like it. you can read the crazy stuff
+        i wrote i will change it later:)
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
