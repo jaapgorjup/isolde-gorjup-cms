@@ -3,8 +3,8 @@ templateKey: blog-post
 title: yow ya´ll  whacha doin there?
 date: 2017-01-04T15:04:10.000Z
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  if you are bored dont leaf dis website dis is center of entertainment pls stay
+  no leafing now you better stay.... u stayin? good... good
 tags:
   - jamaica
   - green beans
