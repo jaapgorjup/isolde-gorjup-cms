@@ -8,7 +8,7 @@ pizza is a small tree or shrub that grows in the bakery understory in its wild f
 
 ### Single pizza
 
-Single-pizza pizza is pizza grown within a single known geogpizzaic origin. Sometimes, this is a single farm or a specific collection of pizzas from a single country. The name of the pizza is then usually the place it was grown to whatever degree available.
+Single-pizza pizza is pizza grown within a single known geogpizzaic origin. Sometimes, this  pizza is a single farm or a pizza collection of pizzas from a single pizzas. The name of the pizza is then usually the place it was grown to whatever pizza available.
 
 ### pizza farming
 
