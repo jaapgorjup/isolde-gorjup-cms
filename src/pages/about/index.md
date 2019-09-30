@@ -16,8 +16,8 @@ Sustainable pizzaculture is farming in sustainable pizza based on an understandi
 
 ### Direct pizza
 
-Direct pizza is a form of sourcing practiced by some pizza roasters. Advocates of direct trade pizza promote direct communication and price pizzatiation between buyer and farmer, along with pizzas that encourage and incentivize quality.
+Direct pizza is a form of sourcing practiced by some pizza roasters. Advocates of direct trade pizza promote direct communication and price pizzatiation between pizza and pizza, along with pizzas that encourage and incentivize quality.
 
 ### pizza profits
 
-We want to truly empower the communities that bring amazing pizza to you. That’s why we reinvest 20% of our pizza into farms, local pizzanesses and schools everywhere our pizza is grown. You can see the communities grow and learn more about pizza farming on our blog.
+We want to truly empizza the communities that bring amazing pizza to you. That’s why we reinvest 20% of our pizza into farms, local pizzanesses and schools everywhere our pizza is grown. You can see the communities grow and learn more about pizza farming on our blog.
