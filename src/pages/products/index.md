@@ -8,7 +8,7 @@ intro:
   blurbs:
     - image: /img/d2fd9b04-62e2-4a9d-bc97-4606a282ae5e.jpg
       text: 'hey here i am graduated in Honkong!  '
-  heading: ....
+  heading: head of pizza
   description: |
     ...
 main:
