@@ -29,7 +29,7 @@ testimonials:
   - author: Smart person name
     quote: 'A nice quote '
   - author: Even smarter person
-    quote: A better quote here
+    quote: 'A better quote '
 full_image: /img/a4cb542a-1d8e-4b94-8d3e-ba367f59feac.jpg
 pricing:
   heading: My favorite books
