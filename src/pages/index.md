@@ -5,10 +5,10 @@ image: /img/img_2066.jpeg
 heading: Isolde Is On The Roll
 subheading: 'Music, Life & Happiness'
 mainpitch:
-  title: Who is Isolde
+  title: hi i´m Isolde!
   description: |
-    Isolde is me!
-description: I am on a Roll
+    Isolde is me! it´s true, yep!
+description: I am on a Roll ;)
 intro:
   blurbs:
     - image: /img/fullsizeoutput_1c86.jpeg
@@ -46,10 +46,10 @@ main:
     alt: Party time
     image: /img/ix0-kfvwqf-wrs5xhp5xqa.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: me in indonesia with neon sunglasses
     image: /img/fullsizeoutput_1c86.jpeg
   image3:
-    alt: Coffee beans
+    alt: 'Coffee beans, wait, i am NOT a coffee bean! who wrote this!?'
     image: /img/ix0-kfvwqf-wrs5xhp5xqa.jpg
 ---
 
