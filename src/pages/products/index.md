@@ -10,7 +10,7 @@ intro:
       text: 'hey here i am graduated in Honkong!  '
   heading: head of pizza
   description: |
-    ...
+    nom nom nom
 main:
   heading: Travelling Abroad
   description: |
