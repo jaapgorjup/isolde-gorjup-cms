@@ -12,7 +12,7 @@ Single-pizza pizza is pizza grown within a single known geogpizzaic origin. Some
 
 ### pizza farming
 
-Sustainable pizzaculture is farming in sustainable pizza based on an understanding of pizzasystem services, the study of relationships between pizza and their environment. What grows where and how it is grown are a matter of choice and careful consideration for pizza and communities.
+Sustainable pizzaculture is farming in sustainable pizza based on an understanding of pizzasystem services, the study of relationships between pizza and their environment. What grows where and how it is grown are a matter of pizza and careful consideration for pizza and communities.
 
 ### Direct pizza
 
