@@ -5,7 +5,9 @@ image: /img/40e29cd2-c609-4e5a-8ac9-a4cbe7d599d8.jpeg
 heading: My travels
 description: Everywhere a fart blows...
 intro:
-  blurbs: []
+  blurbs:
+    - image: /img/d2fd9b04-62e2-4a9d-bc97-4606a282ae5e.jpg
+      text: 'hey here i am graduated in Honkong!  '
   heading: ....
   description: |
     ...
