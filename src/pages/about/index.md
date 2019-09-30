@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: About my life
+title: About my life ;)
 ---
 ### my life is full of pizza :)
 
