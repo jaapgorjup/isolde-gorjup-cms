@@ -30,7 +30,7 @@ testimonials:
     quote: A nice quote here
   - author: Even smarter person
     quote: A better quote here
-full_image: /img/40e29cd2-c609-4e5a-8ac9-a4cbe7d599d8.jpeg
+full_image: /img/a4cb542a-1d8e-4b94-8d3e-ba367f59feac.jpg
 pricing:
   heading: My favorite books
   description: I like these books
