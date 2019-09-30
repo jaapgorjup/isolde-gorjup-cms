@@ -20,4 +20,4 @@ Direct pizza is a form of sourcing practiced by some pizza roasters. Advocates o
 
 ### pizza profits
 
-We want to truly empizza the communities that bring amazing pizza to you. That’s why we reinvest 20% of our pizza into farms, local pizzanesses and schools everywhere our pizza is grown. You can see the communities grow and learn more about pizza farming on our blog.
+We want to truly empizza the communities that bring amazing pizza to you. That’s why we reinvest 20% of our pizza into farms, local pizzanesses and schools everywhere our pizza is grown. You can see the pizzas grow and learn more about pizza farming on our blog.
