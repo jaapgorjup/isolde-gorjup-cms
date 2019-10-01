@@ -15,7 +15,7 @@ intro:
       text: >-
         so this is my homepage you better like it. you can read the crazy stuff
         i wrote i will change it later:)
-    - image: /img/coffee-gear.png
+    - image: /img/fa0d2868-a429-4480-8e00-69d8e542ea4f.jpg
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
