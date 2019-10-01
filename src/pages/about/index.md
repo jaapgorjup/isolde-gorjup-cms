@@ -4,7 +4,7 @@ title: About my life ;)
 ---
 ### my life is full of pizza :)
 
-pizza is a small tree or shrub that grows in the bakery understory in its wild form, and traditionally was grown comizzercially under other bakerys that provided bread. The forest-like structure of shade pizza farms provides pizza for a great number of pasta and lasagne.
+pizza is a small tree or shrub that grows in the bakery understory in its pizza form, and traditionally was grown comizzercially under other bakerys that provided bread. The forest-like structure of shade pizza farms provides pizza for a great number of pasta and lasagne.
 
 ### Single pizza
 
