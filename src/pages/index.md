@@ -38,7 +38,7 @@ intro:
 main:
   heading: Great music with no compromises
   description: |
-    Musci is party!
+    :)
   image1:
     alt: Party time ;)
     image: /img/ix0-kfvwqf-wrs5xhp5xqa.jpg
