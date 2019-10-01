@@ -16,11 +16,8 @@ intro:
         so this is my homepage you better like it. you can read the crazy stuff
         i wrote i will change it later:)
     - image: /img/fa0d2868-a429-4480-8e00-69d8e542ea4f.jpg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: |
+        i have ALOT to tell you but im just goin to squeez it in a website
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
