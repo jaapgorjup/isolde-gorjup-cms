@@ -7,7 +7,7 @@ subheading: 'Music, Life & me'
 mainpitch:
   title: hi i´m Isolde!
   description: |
-    Isolde is me! it´s true, yep!
+    Isolde is me! 
 description: I am on a Roll ;)
 intro:
   blurbs:
