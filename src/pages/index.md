@@ -11,7 +11,7 @@ mainpitch:
 description: I am on a Roll ;)
 intro:
   blurbs:
-    - image: /img/fullsizeoutput_1c86.jpeg
+    - image: /img/img_0204.jpg
       text: >-
         so this is my homepage you better like it. you can read the crazy stuff
         i wrote i will change it later:)
