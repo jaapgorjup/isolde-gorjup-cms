@@ -37,7 +37,7 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: What I Like
   description: |
-    I like Music i like books i like writing YEA I LIKE EVERYTHING
+    I like Music i like books i like writing 
 main:
   heading: Great music with no compromises
   description: |
