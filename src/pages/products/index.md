@@ -3,7 +3,7 @@ templateKey: product-page
 title: Traveling
 image: /img/40e29cd2-c609-4e5a-8ac9-a4cbe7d599d8.jpeg
 heading: My travels
-description: Everywhere th web blows...
+description: "\U0001F603"
 intro:
   blurbs:
     - image: /img/d2fd9b04-62e2-4a9d-bc97-4606a282ae5e.jpg
