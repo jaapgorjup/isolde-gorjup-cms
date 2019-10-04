@@ -13,8 +13,8 @@ intro:
   blurbs:
     - image: /img/img_0204.jpg
       text: >-
-        so this is my homepage you better like it. you can read the crazy stuff
-        i wrote i will change it later:)
+        on this website you are going to experience my actions,life an fun stuff
+        i do! 
     - image: /img/fa0d2868-a429-4480-8e00-69d8e542ea4f.jpg
       text: |
         i have ALOT to tell you but im just goin to squeez it in a website
