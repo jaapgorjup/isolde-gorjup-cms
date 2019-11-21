@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Isolde Gorjup
 image: /img/img_2066.jpeg
-heading: Isolde Is On The Roll
+heading: Isolde Is on the roll
 subheading: 'Music, Life & me'
 mainpitch:
   title: hi i´m Isolde!
