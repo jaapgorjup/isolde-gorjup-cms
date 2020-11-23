@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Isolde Gorjup
+title: Agora products
 image: /img/img_2066.jpeg
 heading: Isolde Is on the roll
-subheading: 'Music, Life & me'
+subheading: Agora roermond
 mainpitch:
   title: hi i´m Isolde!
   description: |
