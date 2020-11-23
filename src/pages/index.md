@@ -8,7 +8,7 @@ mainpitch:
   title: hi i´m Isolde!
   description: |
     Isolde is me! 
-description: I am on a Roll ;)
+description: Welcome to this website!
 intro:
   blurbs:
     - image: /img/img_0204.jpg
