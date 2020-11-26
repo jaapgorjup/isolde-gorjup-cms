@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
-title: Agora products
-image: /img/img_5464.jpg
+title: Isolde gorjup
+image: /img/img_2066.jpeg
 heading: Isolde Is on the roll
 subheading: Agora roermond
 mainpitch:
