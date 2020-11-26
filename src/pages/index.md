@@ -5,7 +5,7 @@ image: /img/img_2066.jpeg
 heading: Isolde Is on the roll
 subheading: Welcome to chaos itself
 mainpitch:
-  title: hi i´m Isolde!
+  title: Here you'll find me and my books
   description: |
     Isolde is me! 
 description: Welcome to this website!
