@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Isolde gorjup
 image: /img/img_2066.jpeg
-heading: Isolde Is on the roll
+heading: This is unnecessary text
 subheading: Welcome to chaos itself
 mainpitch:
   title: Here you'll find me and my books
