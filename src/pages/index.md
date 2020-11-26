@@ -7,7 +7,7 @@ subheading: Welcome to chaos itself
 mainpitch:
   title: Here you'll find me and my books
   description: |
-    Isolde is me! 
+    Go read them
 description: Welcome to this website!
 intro:
   blurbs:
