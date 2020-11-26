@@ -8,7 +8,7 @@ mainpitch:
   title: Here you'll find me and my books
   description: |
     Go read them
-description: Welcome to this website!
+description: Scroll down for more
 intro:
   blurbs:
     - image: /img/img_0204.jpg
