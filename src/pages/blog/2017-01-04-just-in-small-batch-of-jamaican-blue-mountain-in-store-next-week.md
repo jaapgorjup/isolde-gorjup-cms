@@ -1,10 +1,11 @@
 ---
 templateKey: blog-post
-title: yow ya´ll  whacha doin there?
+title: Music of the Week
 date: 2017-01-04T15:04:10.000Z
 description: >-
-  if you are bored dont leaf dis website dis is center of entertainment pls stay
-  no leafing now you better stay.... u stayin? good... good
+  Music is important, and I want to explore different kinds of music around the
+  world. So I'll be sure to update once in a while to share my interest in
+  various music to broaden your taste!
 tags:
   - jamaica
   - green beans
