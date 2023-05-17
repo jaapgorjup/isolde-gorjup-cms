@@ -19,7 +19,7 @@ main:
     alt: after this photo was taken i fell off my skies
     image: /img/c6-aynlpr1q3l78ilyfinq.jpg
   image2:
-    alt: HEY ITS MEEEEE
+    alt: Sunglasses
     image: /img/fullsizeoutput_1c86.jpeg
   image3:
     alt: Flying over Singapore at night
