@@ -1,6 +1,6 @@
 ---
 templateKey: product-page
-title: Traveling
+title: Travelling
 image: /img/40e29cd2-c609-4e5a-8ac9-a4cbe7d599d8.jpeg
 heading: My travels
 description: "\U0001F603"
