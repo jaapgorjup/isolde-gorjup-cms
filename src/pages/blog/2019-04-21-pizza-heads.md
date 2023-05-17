@@ -1,12 +1,11 @@
 ---
 templateKey: blog-post
-title: ' healthy recipes '
+title: Midnight thoughts
 date: 2019-04-21T19:59:18.396Z
-description: >-
-  so, you want to keep healthy, but you don't want to only eat vegetables all
-  the time? on this blog you will find not only healthy, but also easy ways to
-  cook good food. every 2 weeks i will post more on this blog, so stay tuned! 
+description: So you can stay up thinking about it!
 tags:
   - ''
 ---
-cake
+We all know the quote "I love you to the moon and back" which you can find on t-shirts and in a mum's facebook page, with a minion picture photoshopped underneath it. It's just a cheesy quote, right? Well, that's what I thought before I did some research myself. 
+
+So, how many gallons of gasoline is used to travel to the moon and back?
