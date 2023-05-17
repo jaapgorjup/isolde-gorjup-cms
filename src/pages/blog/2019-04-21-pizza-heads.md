@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Midnight thoughts
-date: 2019-04-21T19:59:18.396Z
+date: 2023-05-17T07:44:00.000Z
 description: So you can stay up thinking about it!
 tags:
   - ''
