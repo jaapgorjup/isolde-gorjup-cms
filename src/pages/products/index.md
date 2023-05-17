@@ -15,7 +15,6 @@ main:
   heading: Travelling Abroad
   description: |
     I travelled and lived abroad for years
-    YAAAAAAASSSS
   image1:
     alt: after this photo was taken i fell off my skies
     image: /img/c6-aynlpr1q3l78ilyfinq.jpg
